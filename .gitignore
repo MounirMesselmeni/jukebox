@@ -4,6 +4,6 @@ jukebox.egg-info/
 *.pyc
 *.sqlite
 *.pid
-jukebox/settings_local.py
+jukebox/jukebox/settings_local.py
 build/
 *.sw*
