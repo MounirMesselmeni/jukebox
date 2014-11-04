@@ -77,8 +77,8 @@ INSTALLED_APPS = (
     'rest_framework',
     'social_auth',
     'south',
-    'jukebox_core',
-    'jukebox_web',
+    'jukebox.jukebox_core',
+    'jukebox.jukebox_web',
 )
 
 # automatically add jukebox plugins
